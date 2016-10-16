@@ -20,7 +20,8 @@
     define('unknown_column',"colonna inesistente");
     define('data_null',"nessun valore da cercare");
     define('search_null',"nessun valore trovato");
-    
+ 
+
     define('acapo', "\n");
     
 ?>
